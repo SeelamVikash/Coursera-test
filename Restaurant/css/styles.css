@@ -1,0 +1,35 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #d1044c;
+	font-family: 'Righteous', cursive;
+}
+#header-nav{
+	background-color: #fccf03;
+	border-radius: 0px;
+	border:0;
+}
+div #logo-img{
+	background: url("../food.jpg") no-repeat center;
+	background-size: 150px 100px;
+	width: 100px;
+	height: 100px;
+	margin:15px;
+	border-radius: 10em;
+}
+#fssai img{
+	width: 15px;
+	height:10px;
+}
+.navbar-brand{
+	padding-top:0px;
+}
+.navbar-brand a:hover,.navbar-brand a:focus{
+	text-decoration: none;
+}
+.navbar-header button.navbar-toggle,.navbar-header .icon-bar{
+	border: 1px solid #d1044c;
+}
+.navbar-header button.navbar-toggle{
+	clear:left;
+}

@@ -1,0 +1,60 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #d1044c;
+	font-family: 'Righteous', cursive;
+}
+#header-nav{
+	background-color: #fccf03;
+	border-radius: 0px;
+	border:0;
+}
+.navbar-brand a{
+	text-decoration: none;
+	color: black;
+}
+.navbar-header button.navbar-toggle,.navbar-header .icon-bar{
+	border: 1px solid #d1044c;
+}
+.navbar-brand h2{
+	text-align: center;
+	margin-top: 8px;
+}
+.navbar-brand{
+	padding:0px 15px 0px 15px;
+}
+#nav-list a{
+	text-decoration-color: none;
+	text-align: center;
+	color: black;
+}
+#nav-list li:hover{
+	background-color:#d1044c; 
+}
+#nav-list span:hover{
+	background-color:#fccf03;
+	display: block;
+	border-radius: 5px; 
+}
+
+/*Main-Content*/
+#Heading h1{
+	text-align: center;
+}
+.jumbotron{
+	color: black;
+}
+#chicken,#beef,#sushi{
+	background-color: #e8ebed;
+	border-radius: 10px;
+}
+.jumbotron{
+	background-color: #d1044c;
+}
+.jumbotron section{
+	padding: 0 20px 20px;
+}
+.jumbotron h2{
+	background: black;
+	color: white;
+}
